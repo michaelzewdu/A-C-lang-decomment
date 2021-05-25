@@ -1,0 +1,9 @@
+Here you will find a decomment program that removes comments from a C source code file or any other file that have the comment structure of a c multi-line commenting style.
+The program was done by 
+==>MICHAEL ZEWDU ATR/9935/10 SE-sec1
+==>HANNA GIRMA ATR/3076/10 SE-sec1
+==>YOPHTHAHE AMARE ATR/2890/10 SE-sec1
+
+We spent a total of around five days working on this project and the Cexamples lab class and powerpoint presentation file gave us significant help in doing this project.
+This project indeed helped us learn some new things in the C standard input and output and how input and output redirection work to a file. We learnt how characters are represented in the  ASCII(American standard code for information exchange).
+The decomment program in this folder is slightly different from our DFA design and this is because when designing our dfa we didn't forsee and test the different kinds of inputs provided in the instructions but on the decomment.c program we tried to fix it to work among all different senarios.
