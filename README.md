@@ -1,3 +1,5 @@
 # A-C-lang-decomment
 A script that will take the comments out of a C program. It has been tested against many inputs and worked but what is 100% perfect?
-Every file and description is on the master branch. For some reason I couldn't merge master with main�.
+Every file and description is on the master branch. 
+
+Everything is on the master branch. 
